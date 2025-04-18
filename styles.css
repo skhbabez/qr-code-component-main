@@ -39,6 +39,7 @@ body {
   align-items: center;
   flex-direction: column;
   gap: 16px;
+  overflow-wrap: anywhere;
 }
 
 .card {
@@ -49,7 +50,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  height: 499px;
+  height: auto;
   width: 320px;
   display: flex;
   flex-direction: column;
