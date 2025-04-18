@@ -17,13 +17,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-to be added
+mobile
+![](./mobile.png)
+
+desktop
+![](./desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/skhbabez/qr-code-component-main)
+- [Live Site URL](https://skhbabez.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -44,7 +47,7 @@ Refreshed lots of basics regarding working with text in css.
 
 ### Continued development
 
-Read up on on inheritance in CSS. Do I need or should I use this much Flex?
+Read up on on inheritance in CSS. Do I need or should I use this much Flex? Would simple text-align and margins been enough?
 
 ### Useful resources
 
