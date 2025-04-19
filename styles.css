@@ -76,6 +76,6 @@ body {
 .card-text {
   color: var(--slatetext);
   font-size: 15px;
-  font-weight: 400px;
-  line-height: 22px;
+  line-height: 140%;
+  letter-spacing: 0.2px;
 }
